@@ -7,5 +7,5 @@
 README.md updated on 2021/01/12:
 
 - 🎮 I’m currently working on my indie game project.
-- ♟ I’m currently learning chess.
+- ♟ I’m currently learning chess and Japanese.
 - ⚡ Programming Skill: C++ / Python / Javascript.
